@@ -436,7 +436,7 @@ div.row{
   width: 70%;
 }
 .bar .progress-line.python span{
-  width: 80%;
+  width: 75%;
 }
 .bar .progress-line.C span{
   width: 80%;
@@ -494,7 +494,7 @@ div.row{
   content: "70%";
 }
 .progress-line.python span::after{
-  content: "80%";
+  content: "75%";
 }
 .progress-line.C span::after{
   content: "80%";
